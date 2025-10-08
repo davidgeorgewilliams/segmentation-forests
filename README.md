@@ -7,6 +7,8 @@
 
 Automatically discover meaningful segments in your data where metric distributions significantly diverge from the background. Perfect for exploratory data analysis, anomaly detection, and customer segmentation without requiring labeled data.
 
+![Segmentation Forests](assets/SegmentationForests.png)
+
 ---
 
 ## 🎯 The Problem
